@@ -4,25 +4,6 @@
 
 This project was developed as part of bootcamp. The aim was to learn Analytics Engineering with this dbt through a real-world Airbnb use case. Apart from dbt itself, this project also used: snowflake, dbt-expectations, aws (to keep a file files) and preset to crete a dashboard.
 
-The final files organization (snowflake):
-
-![organization](assets\dbt_snowflake.png)
-
-One of the greatest advantages of dbt clearly is its documentation and how easy is to create it:
-
-![docs](assets\dbt_docs.png)
-
-Also a dashboard was created:
-
-[Link to the dashboard on preset](https://ac394b1e.us2a.app.preset.io/superset/dashboard/8/?native_filters_key=ClYmesBESjozsR4l2VewTed51omPNd61R1t-f2kIBevCL6DFpzIk7HA37lfJxDub)
-
-![dash](assets\dbt_dash.png)
-
-At the very end, the lineage is:
-
-![image](assets\lineage_graph.png)
-
-
 # Course link
 
 Visit the dbt bootcamp:
